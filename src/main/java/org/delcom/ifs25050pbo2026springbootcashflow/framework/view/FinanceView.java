@@ -52,6 +52,14 @@ public class FinanceView extends VerticalLayout {
         this.financeUseCase = financeUseCase;
         this.financePresenter = financePresenter;
 
+        if (com.vaadin.flow.component.UI.getCurrent() != null) {
+            com.vaadin.flow.component.UI.getCurrent().getPage().executeJs(
+                    "let m = document.querySelector('meta[name=\"description\"]');" +
+                    "if (!m) { m = document.createElement('meta'); m.name = 'description'; document.head.appendChild(m); }" +
+                    "m.content = 'Aplikasi Catatan Keuangan (Cashflow) untuk mengelola pemasukan dan pengeluaran.';"
+            );
+        }
+        
         setSizeFull();
         setPadding(true);
         setSpacing(true);
