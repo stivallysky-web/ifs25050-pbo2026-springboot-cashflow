@@ -1,4 +1,4 @@
-package org.delcom.stiventpbo2026springbootcashflow.domain.repository;
+package org.delcom.ifs25050pbo2026springbootcashflow.domain.repository;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,6 +1,6 @@
-package org.delcom.stiventpbo2026springbootcashflow.adapter.repository;
+package org.delcom.ifs25050pbo2026springbootcashflow.adapter.repository;
 
-import org.delcom.stiventpbo2026springbootcashflow.domain.repository.IRepository;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.repository.IRepository;
 
 import java.util.ArrayList;
 import java.util.List;

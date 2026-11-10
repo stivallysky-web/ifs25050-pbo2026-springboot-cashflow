@@ -1,9 +1,9 @@
-package org.delcom.stiventpbo2026springbootcashflow.config;
+package org.delcom.ifs25050pbo2026springbootcashflow.config;
 
-import org.delcom.stiventpbo2026springbootcashflow.adapter.presenter.FinancePresenter;
-import org.delcom.stiventpbo2026springbootcashflow.adapter.repository.TransactionRepository;
-import org.delcom.stiventpbo2026springbootcashflow.domain.repository.ITransactionRepository;
-import org.delcom.stiventpbo2026springbootcashflow.usecase.FinanceUseCase;
+import org.delcom.ifs25050pbo2026springbootcashflow.adapter.presenter.FinancePresenter;
+import org.delcom.ifs25050pbo2026springbootcashflow.adapter.repository.TransactionRepository;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.repository.ITransactionRepository;
+import org.delcom.ifs25050pbo2026springbootcashflow.usecase.FinanceUseCase;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

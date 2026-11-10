@@ -1,6 +1,6 @@
-package org.delcom.stiventpbo2026springbootcashflow.adapter.presenter;
+package org.delcom.ifs25050pbo2026springbootcashflow.adapter.presenter;
 
-import org.delcom.stiventpbo2026springbootcashflow.domain.entity.Transaction;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.entity.Transaction;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

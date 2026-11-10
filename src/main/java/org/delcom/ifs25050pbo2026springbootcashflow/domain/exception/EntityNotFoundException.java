@@ -1,4 +1,4 @@
-package org.delcom.stiventpbo2026springbootcashflow.domain.exception;
+package org.delcom.ifs25050pbo2026springbootcashflow.domain.exception;
 
 public class EntityNotFoundException extends DomainException {
     private final int id;

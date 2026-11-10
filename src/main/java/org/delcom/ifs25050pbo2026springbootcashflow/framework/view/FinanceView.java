@@ -1,4 +1,4 @@
-package org.delcom.stiventpbo2026springbootcashflow.framework.view;
+package org.delcom.ifs25050pbo2026springbootcashflow.framework.view;
 
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.button.Button;
@@ -19,12 +19,12 @@ import com.vaadin.flow.component.textfield.NumberField;
 import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.Route;
-import org.delcom.stiventpbo2026springbootcashflow.adapter.presenter.FinancePresenter;
-import org.delcom.stiventpbo2026springbootcashflow.domain.entity.SortOption;
-import org.delcom.stiventpbo2026springbootcashflow.domain.entity.Transaction;
-import org.delcom.stiventpbo2026springbootcashflow.domain.entity.TransactionType;
-import org.delcom.stiventpbo2026springbootcashflow.domain.exception.DomainException;
-import org.delcom.stiventpbo2026springbootcashflow.usecase.FinanceUseCase;
+import org.delcom.ifs25050pbo2026springbootcashflow.adapter.presenter.FinancePresenter;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.entity.SortOption;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.entity.Transaction;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.entity.TransactionType;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.exception.DomainException;
+import org.delcom.ifs25050pbo2026springbootcashflow.usecase.FinanceUseCase;
 
 import java.util.Comparator;
 import java.util.List;

@@ -1,12 +1,12 @@
-package org.delcom.stiventpbo2026springbootcashflow;
+package org.delcom.ifs25050pbo2026springbootcashflow;
 
-import org.delcom.stiventpbo2026springbootcashflow.adapter.presenter.FinancePresenter;
-import org.delcom.stiventpbo2026springbootcashflow.domain.entity.SortOption;
-import org.delcom.stiventpbo2026springbootcashflow.domain.entity.Transaction;
-import org.delcom.stiventpbo2026springbootcashflow.domain.exception.EntityNotFoundException;
-import org.delcom.stiventpbo2026springbootcashflow.domain.exception.ValidationException;
-import org.delcom.stiventpbo2026springbootcashflow.domain.repository.ITransactionRepository;
-import org.delcom.stiventpbo2026springbootcashflow.usecase.FinanceUseCase;
+import org.delcom.ifs25050pbo2026springbootcashflow.adapter.presenter.FinancePresenter;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.entity.SortOption;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.entity.Transaction;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.exception.EntityNotFoundException;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.exception.ValidationException;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.repository.ITransactionRepository;
+import org.delcom.ifs25050pbo2026springbootcashflow.usecase.FinanceUseCase;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

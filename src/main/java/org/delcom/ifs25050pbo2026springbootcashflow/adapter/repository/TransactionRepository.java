@@ -1,8 +1,8 @@
-package org.delcom.stiventpbo2026springbootcashflow.adapter.repository;
+package org.delcom.ifs25050pbo2026springbootcashflow.adapter.repository;
 
-import org.delcom.stiventpbo2026springbootcashflow.domain.entity.Transaction;
-import org.delcom.stiventpbo2026springbootcashflow.domain.entity.TransactionType;
-import org.delcom.stiventpbo2026springbootcashflow.domain.repository.ITransactionRepository;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.entity.Transaction;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.entity.TransactionType;
+import org.delcom.ifs25050pbo2026springbootcashflow.domain.repository.ITransactionRepository;
 
 /**
  * Implementasi konkret repository transaksi dengan penomoran ID otomatis.

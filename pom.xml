@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
     <groupId>org.delcom</groupId>
-    <artifactId>stivent-pbo2026-springboot-cashflow</artifactId>
+    <artifactId>ifs25050-pbo2026-springboot-cashflow</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>stivent-pbo2026-springboot-cashflow</name>
-    <description>stivent-pbo2026-springboot-cashflow</description>
+    <name>ifs25050-pbo2026-springboot-cashflow</name>
+    <description>ifs25050-pbo2026-springboot-cashflow</description>
 
     <properties>
         <java.version>25</java.version>

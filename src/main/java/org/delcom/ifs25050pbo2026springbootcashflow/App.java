@@ -1,4 +1,4 @@
-package org.delcom.stiventpbo2026springbootcashflow;
+package org.delcom.ifs25050pbo2026springbootcashflow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

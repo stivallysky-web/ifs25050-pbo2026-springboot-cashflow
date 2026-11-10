@@ -1,4 +1,4 @@
-package org.delcom.stiventpbo2026springbootcashflow.domain.entity;
+package org.delcom.ifs25050pbo2026springbootcashflow.domain.entity;
 
 import java.util.Comparator;
 
